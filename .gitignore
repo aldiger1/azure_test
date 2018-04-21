@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/aldiger/v15
+/.vs/config
+/aldiger/bin
+/aldiger/obj/Debug
+/packages
